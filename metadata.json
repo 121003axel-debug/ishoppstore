@@ -1,0 +1,6 @@
+{
+  "name": "iShopp Store",
+  "description": "Una tienda e-commerce elegante, moderna y totalmente funcional con catálogo de productos, carrito de compras, reseñas con IA y más.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
